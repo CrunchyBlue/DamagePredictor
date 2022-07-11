@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/DamagePredictor/models/
+/DamagePredictor/models/ada_model.pkl
+/DamagePredictor/models/knn_bag_model.pkl
+/DamagePredictor/models/le_model.pkl
+/DamagePredictor/models/scaler_model.pkl
+/DamagePredictor/models/xgb_model.pkl
