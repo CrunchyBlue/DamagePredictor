@@ -133,3 +133,5 @@ dmypy.json
 /DamagePredictor/models/le_model.pkl
 /DamagePredictor/models/scaler_model.pkl
 /DamagePredictor/models/xgb_model.pkl
+
+.idea
