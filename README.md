@@ -1,10 +1,5 @@
 # DamagePredictor
 
----
-title: "Ensemble Implementation"
-author: "David Gagliardi"
----
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
